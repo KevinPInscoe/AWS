@@ -1,2 +1,7 @@
-Kevin Inscoe's AWS tools
+Various AWS tools Kevin P. Inscoe has written.
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+https://creativecommons.org/licenses/by/4.0/
+
 
